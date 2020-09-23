@@ -77,7 +77,6 @@ function generatePassword() {
     var randomNumber = Math.ceil(Math.random() * chosenCharacters.length);
     passwordText.value = password;
   }
-
   return "New generated password will replace this text.";
 }
 

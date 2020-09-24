@@ -4,20 +4,16 @@
 
 This project demonstrates how to create an application that an employee can use to generate a random password based on criteria they’ve selected. A start code was provided for modifications and Javascript was created from scratch. The task is ensure the app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript. The end result is a responsive user interface that adapts to multiple screen sizes.
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
-
-## Steps
+## To achieve this
 
 To create a strong password that provides great security for sensitive data, the applications has been coded with different functions.
+1.The user must use charaters.
+2.The user must use a criteria.
+3.The pasword mut meet a certain length.
+4.The final password should populate in the text placeholder.
 
-The user must use charaters.
-The user must use a criteria.
-The pasword mut meet a certain length.
-The final password should populate in the text placeholder.
+## To chieve this
 
-## To chieve this Links
-
-```
 When the generate butoon is clicked, the user is propte to act on some actions.
 Prompts to inform the user what was required for password length and criteria
 Confirms were used to get the users choice of character and pasword length.
@@ -25,25 +21,25 @@ If & else statements were used to compare possible outcomes from the user.
 
 LINKS
 
-https://valkimani.github.io/Generate-a-Password/
+![Criteria](/images/criteria.png)
+![Tryagain](/images/tryagain.png)
 
-https://github.com/Valkimani/Generate-a-Password
-
-
-SCREENSHOTS
-
-![criteria](/images/critera.png)
-![tryagain](/images/tryagain.png)
-
-Screencastitylinks
+Screencastify links
 
 https://drive.google.com/file/d/1erZnU17ahKKIfPccAOrkjYXWrcBtZX8Z/view
-
 https://drive.google.com/file/d/1xdlVwCFKSUvghGQyC6l2s2I0U1FGRYlL/view
 
+LINKS
+
+Deployed site: https://valkimani.github.io/Generate-a-Password/
+
+Github: https://github.com/Valkimani/Generate-a-Password
+
+```
 CREDITS
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
 
 Lincense
 

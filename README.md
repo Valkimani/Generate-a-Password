@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates how to create an application that an employee can use to generate a random password based on criteria they’ve selected. A start code was provided for modifications and Javascript was created from scratch. The task is ensure the app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript. The end result is a responsive user interface that adapts to multiple screen sizes.
+This project demonstrates how to create an application that an employee can use to generate a random password based on criteria they’ve selected. A starter code was provided for modifications and Javascript was created from scratch. The task is to ensure the app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript. The end result is a responsive user interface that adapts to multiple screen sizes.
 
 ## To achieve this
 
@@ -14,10 +14,10 @@ To create a strong password that provides great security for sensitive data, the
 
 ## To chieve this
 
-When the generate butoon is clicked, the user is propte to act on some actions.
-Prompts to inform the user what was required for password length and criteria
-Confirms were used to get the users choice of character and pasword length.
-If & else statements were used to compare possible outcomes from the user.
+1.When the generate button is clicked, the user is prompted to act on some actions.
+2.Prompts to inform the user what was required for a password length and criteria
+3.Confirms were used to get the users choice of character and pasword length.
+4.If & else statements were used to compare possible outcomes from the user.
 
 LINKS
 
